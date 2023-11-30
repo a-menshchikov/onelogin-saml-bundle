@@ -33,7 +33,7 @@
     "require-dev": {
         "doctrine/orm": "^2.3 || ^3",
         "symfony/event-dispatcher": "^6",
-        "symfony/phpunit-bridge": "^6"
+        "symfony/phpunit-bridge": "^7"
     },
     "conflict": {
         "symfony/http-kernel": ">=6.2",
